@@ -77,3 +77,6 @@ Conclusion
 By following these steps, I was able to enhance our AWS infrastructure’s security, reliability, and connectivity. Implementing EC2 Instance Connect simplified our SSH access, while ping tests and NACL updates ensured robust server communication. Additionally, verifying VPC internet access with curl confirmed our network’s capability to interact with external resources effectively.
 
 This project marks a significant improvement in our cloud environment, and I’m excited to see the positive impact it will have on our operations. If you have any questions or would like to discuss these techniques further, feel free to reach out!
+<img width="922" alt="Testing VPC Connectivity" src="https://github.com/user-attachments/assets/43316113-4c4d-440d-982a-b7efa8428c85">
+
+
